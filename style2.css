@@ -1,0 +1,31 @@
+.Contactform
+{
+    width:500px;
+    font-size: 15px;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 2%;
+    border:solid 2px#111116;
+}
+.Contactform input
+{
+    width: 350px;
+    font-size: 15px;
+}
+.Contactform textarea{
+    font-size:18pt;
+    height:200px;
+    width:400px;
+    
+}
+.Contactform button{
+
+        background-color: #111116; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px; 
+}
